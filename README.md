@@ -8,12 +8,12 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | Muhammad Rizki Akbar P. | 124400046 |
+| Anggota | Muhammad Prayoga | 124400028 |
+| Anggota | Asrofi  | [NIM] |
 
 - **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
+- **Lokasi kelompok:** 28 — [nama lokasi] (digit terakhir NIM terkecil)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
