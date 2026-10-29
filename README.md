@@ -12,8 +12,8 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 | Anggota | Muhammad Prayoga | 124400028 |
 | Anggota | Asrofi T Insani Siregar | 124400064 |
 
-- **Kelas:** [RA / RB]
-- **Lokasi kelompok:** 28 — [nama lokasi] (digit terakhir NIM terkecil)
+- **Kelas:** [RB]
+- **Lokasi kelompok:** 4 — [duomo] (4)
 - **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
 
 ## Cara Menjalankan
