@@ -10,7 +10,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 |---|---|---|
 | Ketua | Muhammad Rizki Akbar P. | 124400046 |
 | Anggota | Muhammad Prayoga | 124400028 |
-| Anggota | Asrofi  | [NIM] |
+| Anggota | Asrofi T. Insani Siregar | 124400064 |
 
 - **Kelas:** [RA / RB]
 - **Lokasi kelompok:** 28 — [nama lokasi] (digit terakhir NIM terkecil)
