@@ -28,7 +28,7 @@ Perangkat yang kami pakai: [Laptop CPU Ryzen 3 3250U], total waktu training: [15
 
 ## Ringkasan Hasil
 
-[2–4 kalimat temuan utama, beserta angka test MAE terbaik per model.]
+[Studi ini mengevaluasi model ANN, RNN, LSTM, dan GRU dalam memprediksi aktivitas internet seluler di Kota Milan. Berdasarkan protokol pelatihan penuh, RNN dan GRU mencatatkan test MAE terbaik berturut-turut sebesar $229{,}6\pm5{,}1$ dan $237{,}2\pm9{,}3$, disusul oleh LSTM sebesar $274\pm25$ dan ANN sebesar $309{,}9\pm5{,}9$. Analisis menunjukkan bahwa anggaran pelatihan, learning rate, dan batch size sangat menentukan performa konvergensi model dibandingkan sekadar pemilihan jenis sel rekuren. Model-model tersebut juga mengalami penurunan generalisasi pada lokasi kampus (Politecnico) serta saat minggu Natal akibat perbedaan pola trafik yang drastis.]
 
 ## Struktur
 
