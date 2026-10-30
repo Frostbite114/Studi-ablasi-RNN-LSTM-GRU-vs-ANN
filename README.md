@@ -13,7 +13,7 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 - **Kelas:** [RB]
 - **Lokasi kelompok:** 4 — [duomo] (4)
-- **Laporan:** [`laporan-latex/main.pdf]
+- **Laporan:** [Laporan Kecerdasan Buatan.pdf]
 
 ## Cara Menjalankan
 
